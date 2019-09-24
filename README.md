@@ -1,2 +1,2 @@
 # Twitter
-Collecting Twitter Data, created by @apriandito
+Colectiong of script to collect Twitter Data, created by @apriandito
